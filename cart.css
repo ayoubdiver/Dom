@@ -1,0 +1,33 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.shopping-cart{
+    background-color: #EDF1D6;
+    width: 80%;
+    text-align: center;
+    margin: 50px auto;
+    border: 1px solid;
+}
+.cart{
+    background-color: #9DC08B;
+    display: flex;
+    justify-content: space-between;
+    padding:15px  10px ;
+    margin: 15px 10px;
+}
+.fa-solid{
+    background-color: #EDF1D6;
+    border-radius:4px;
+    padding: 3px;
+    cursor: pointer;
+}
+.love{
+    color: red;
+    
+}
+.fa-regular{
+    cursor: pointer;
+    font-size: 20px;
+}
